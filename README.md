@@ -1,4 +1,6 @@
 hello-world
 ===========
 
-a short description
+Dear readers,
+
+Enjoy reading.
